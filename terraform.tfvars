@@ -1,3 +1,3 @@
-region = "us-east-1"
+region = "ap-northeast-2"
 label  = "hashicorp"
 app    = "terramino"
